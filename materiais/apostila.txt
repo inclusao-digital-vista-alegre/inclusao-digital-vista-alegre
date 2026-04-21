@@ -1,1 +1,11 @@
-
+📁 inclusao-digital-vista-alegre
+ ┣ 📄 README.md
+ ┣ 📁 materiais
+ ┃ ┣ apostila.pdf
+ ┃ ┣ slides.pptx
+ ┃ ┣ exercicios.xlsx
+ ┣ 📁 site-html
+ ┃ ┣ index.html
+ ┣ 📁 imagens
+ ┃ ┣ foto1.jpg
+ ┃ ┣ foto2.jpg
