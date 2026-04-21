@@ -1,11 +1,21 @@
-📁 inclusao-digital-vista-alegre
- ┣ 📄 README.md
- ┣ 📁 materiais
- ┃ ┣ apostila.pdf
- ┃ ┣ slides.pptx
- ┃ ┣ exercicios.xlsx
- ┣ 📁 site-html
- ┃ ┣ index.html
- ┣ 📁 imagens
- ┃ ┣ foto1.jpg
- ┃ ┣ foto2.jpg
+APOSTILA - INCLUSÃO DIGITAL
+
+Módulo 1 - Introdução ao Computador
+- O que é hardware e software
+- Como ligar e desligar o computador
+- Uso do mouse e teclado
+
+Módulo 2 - Internet e E-mail
+- Navegação na internet
+- Criação de e-mail no Gmail
+- Envio e recebimento de mensagens
+
+Módulo 3 - Pacote Office
+- Word: digitação e formatação
+- Excel: planilhas simples
+- PowerPoint: criação de slides
+
+Módulo 4 - Segurança Digital
+- Senhas seguras
+- Evitar golpes online
+- Uso consciente das redes sociais
