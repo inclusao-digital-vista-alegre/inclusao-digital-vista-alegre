@@ -1,9 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inclusão Digital</title>
 </head>
 <body>
+
     <h1>Projeto de Inclusão Digital</h1>
 
     <h2>Bairro Vista Alegre - Videira/SC</h2>
@@ -21,6 +24,7 @@
     <h3>Resultados:</h3>
     <p>Os participantes desenvolveram autonomia no uso da tecnologia.</p>
 
-    <p><b>Projeto Extensionista - 2026</b></p>
+    <p><strong>Projeto Extensionista - 2026</strong></p>
+
 </body>
 </html>
